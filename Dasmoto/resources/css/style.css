@@ -2,7 +2,7 @@ h1 {
 	font-size: 100px;
 	color: khaki;
 	text-align: center;
-	background-image: url("file:///Users/Cans/Documents/CODE_Projects/Dasmoto/resources/images/tiles.jpeg");
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
 h2 {
